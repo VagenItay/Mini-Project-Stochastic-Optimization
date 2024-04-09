@@ -1,4 +1,4 @@
-# Mini-Project-Stohastic
+# Mini-Project-Stochastic-Optimization
 
 Students:
 
